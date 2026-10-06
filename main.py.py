@@ -44,4 +44,4 @@ def analyze_review(review: Review):
         print("Model error:", e)
         final_score = 50.0 # Neutral fallback if something breaks
 
-    return {"score": final_score}
+    return {"score": final_score}uvicorn main:app --reload
