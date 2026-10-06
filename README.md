@@ -43,7 +43,8 @@ Enable Developer mode using the toggle in the top right corner.
 Click the Load unpacked button in the top left.
 Select the extension folder located inside the cloned repository.
 
- Usage
+Usage
+Ensure the Python backend is running in your terminal in by adding it in the code files
 Navigate to any product page on Amazon (supports .com, .de, .co.uk, etc.).
 
 Scroll down to the reviews section.
